@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.corda:corda-confidential-identities:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-confidential-identities/1.0.0/fcb830c51e170ad5373e9c964bf88544abcf524b/corda-confidential-identities-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-confidential-identities/1.0.0/e480c3db2fb8eda2001f4b1be86e21fc7fc51b3b/corda-confidential-identities-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

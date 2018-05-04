@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.h2database:h2:1.4.194">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/h2database/h2/1.4.194/h2-1.4.194.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
